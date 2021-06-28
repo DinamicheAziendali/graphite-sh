@@ -42,3 +42,8 @@
 	path = b_OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 14.0
+
+[submodule "b_OCA/purchase-workflow"]
+	path = b_OCA/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 14.0
