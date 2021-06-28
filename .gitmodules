@@ -27,3 +27,8 @@
 	path = b_OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
+
+[submodule "b_OCA/delivery-carrier"]
+	path = b_OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
