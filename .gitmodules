@@ -87,3 +87,8 @@
 	path = b_OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "b_OCA/website"]
+	path = b_OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 14.0
