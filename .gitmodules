@@ -37,3 +37,8 @@
 	path = b_OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 14.0
+
+[submodule "b_OCA/product-attribute"]
+	path = b_OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
