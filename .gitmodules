@@ -97,3 +97,8 @@
 	path = b_OCA/e-commerce
 	url = git@github.com:OCA/e-commerce.git
 	branch = 14.0
+
+[submodule "b_OCA/l10n-italy"]
+	path = b_OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 14.0
