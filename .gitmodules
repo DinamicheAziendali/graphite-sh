@@ -3,11 +3,6 @@
 	url = git@github.com:DinamicheAziendali/da_tools.git
 	branch = 14.0
 
-[submodule "OCA/account-analytic"]
-	path = OCA/account-analytic
-	url = git@github.com:OCA/account-analytic.git
-	branch = 14.0
-
 [submodule "b_OCA/account-financial-reporting"]
 	path = b_OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
