@@ -12,3 +12,8 @@
 	path = b_OCA/account-analytic
 	url = git@github.com:OCA/account-analytic.git
 	branch = 14.0
+
+[submodule "b_OCA/account-financial-tools"]
+	path = b_OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
