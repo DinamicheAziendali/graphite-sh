@@ -92,3 +92,8 @@
 	path = b_OCA/website
 	url = git@github.com:OCA/website.git
 	branch = 14.0
+
+[submodule "b_OCA/e-commerce"]
+	path = b_OCA/e-commerce
+	url = git@github.com:OCA/e-commerce.git
+	branch = 14.0
