@@ -57,3 +57,8 @@
 	path = b_OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 14.0
+
+[submodule "b_OCA/sale-workflow"]
+	path = b_OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
