@@ -1,0 +1,4 @@
+[submodule "a_DinamicheAziendali/da_tools"]
+	path = a_DinamicheAziendali/da_tools
+	url = git@github.com:DinamicheAziendali/da_tools.git
+	branch = 14.0
