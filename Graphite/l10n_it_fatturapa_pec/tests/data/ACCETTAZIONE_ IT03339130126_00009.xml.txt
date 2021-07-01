@@ -4,7 +4,7 @@ Received: from smtpecshgo02.pec.ad.aruba.it (localhost [127.0.0.1])
 	by smtpecshgo02.pec.ad.aruba.it (lmtpd) with LMTP id 17642.002;
 	Tue, 13 Nov 2018 16:39:26 +0100 (CET)
 Subject: ACCETTAZIONE: IT03339130126_00009.xml
-X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-openerp-8-fatturapa.attachment.out@elbati-Vostro-3550>
+X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-odoo-8-fatturapa.attachment.out@elbati-Vostro-3550>
 Date: Tue, 13 Nov 2018 16:39:26 +0100
 To: l.battistini@pec.it
 X-Ricevuta: accettazione

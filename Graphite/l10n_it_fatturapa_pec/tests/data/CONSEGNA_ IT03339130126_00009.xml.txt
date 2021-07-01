@@ -4,7 +4,7 @@ Received: from smtpecshgo02.pec.ad.aruba.it (localhost [127.0.0.1])
 	by smtpecshgo02.pec.ad.aruba.it (lmtpd) with LMTP id 14116.002;
 	Tue, 13 Nov 2018 16:39:27 +0100 (CET)
 Subject: CONSEGNA: IT03339130126_00009.xml
-X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-openerp-8-fatturapa.attachment.out@elbati-Vostro-3550>
+X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-odoo-8-fatturapa.attachment.out@elbati-Vostro-3550>
 Date: Tue, 13 Nov 2018 16:39:27 +0100
 Message-ID: <opec288.20181113163927.28978.421.1.413.72@pec.aruba.it>
 To: l.battistini@pec.it
@@ -130,7 +130,7 @@ Reply-To: l.battistini@pec.it
 To: l.battistini@pec.it
 Date: Tue, 13 Nov 2018 15:39:26 -0000
 Message-ID: <opec288.20181113163926.01838.310.1.63@pec.aruba.it>
-X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-openerp-8-fatturapa.attachment.out@elbati-Vostro-3550>
+X-Riferimento-Message-ID: <1542123565.921546936035156.464602125997431-odoo-8-fatturapa.attachment.out@elbati-Vostro-3550>
 
 --===============3780602758959172333==
 Content-Type: text/html; charset="utf-8"
