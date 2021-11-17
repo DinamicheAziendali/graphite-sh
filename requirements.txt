@@ -1,0 +1,10 @@
+git+https://github.com/OCA/openupgradelib.git@master
+elementpath
+xmlschema
+asn1crypto
+unidecode
+codicefiscale
+ipdb
+pysftp
+boto3==1.15.16
+iso8601
