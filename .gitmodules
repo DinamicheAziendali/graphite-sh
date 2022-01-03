@@ -102,3 +102,8 @@
 	path = b_OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 14.0
+
+[submodule "a_DinamicheAziendali/da-a-pr"]
+	path = a_DinamicheAziendali/da-a-pr
+	url = git@github.com:DinamicheAziendali/da-a-pr.git
+	branch = 14.0
