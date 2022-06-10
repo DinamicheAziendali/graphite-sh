@@ -1,3 +1,0 @@
-odoorpc
-openupgradelib
-odoo_test_helper
