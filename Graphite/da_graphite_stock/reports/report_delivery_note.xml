@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+    <template id="delivery_note_report_template_inherit" inherit_id="l10n_it_delivery_note.delivery_note_report_template">
+        <xpath expr="//t[@t-if=&quot;doc.type_code=='internal'&quot;]/t/t/t[@t-if='doc.partner_sender_id.id != doc.partner_shipping_id.id']/small" position="attributes">
+            <attribute name="style">display: none;</attribute>
+        </xpath>
+    </template>
+
+</odoo>
