@@ -9,5 +9,5 @@
 	branch = 14.0
 [submodule "a_DinamicheAziendali/da-submodules"]
 	path = a_DinamicheAziendali/da-submodules
-	url = git@github.com:DinamicheAziendali/da-submodules.git
-	branch = 14.0
+	url = https://github.com/dinamicheaziendali/da-submodules.git
+	branch = 16.0
