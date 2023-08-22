@@ -7,3 +7,8 @@
 	path = a_DinamicheAziendali/da-a-pr
 	url = git@github.com:DinamicheAziendali/da-a-pr.git
 	branch = 16.0
+
+[submodule "a_DinamicheAziendali/da-submodules"]
+	path = a_DinamicheAziendali/da-submodules
+	url = git@github.com:DinamicheAziendali/da-submodules.git
+	branch = 16.0
