@@ -12,3 +12,7 @@
 	path = a_DinamicheAziendali/da-submodules
 	url = git@github.com:DinamicheAziendali/da-submodules.git
 	branch = 16.0
+[submodule "a_DinamicheAziendali/da-a-atestpr"]
+	path = a_DinamicheAziendali/da-a-atestpr
+	url = https://github.com/DinamicheAziendali/da-a-atestpr.git
+	branch = 16.0-migration_from_14
