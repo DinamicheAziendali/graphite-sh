@@ -12,8 +12,11 @@
 	path = a_DinamicheAziendali/da-submodules
 	url = git@github.com:DinamicheAziendali/da-submodules.git
 	branch = 16.0
-
 [submodule "a_DinamicheAziendali/oca-only-field-for-missing-module"]
 	path = a_DinamicheAziendali/oca-only-field-for-missing-module
 	url = https://github.com/DinamicheAziendali/oca-only-field-for-missing-module.git
 	branch = 16.0
+[submodule "a_DinamicheAziendali/da-a-atestpr"]
+	path = a_DinamicheAziendali/da-a-atestpr
+	url = https://github.com/DinamicheAziendali/da-a-atestpr.git
+	branch = 16.0-migration_from_14
